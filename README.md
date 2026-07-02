@@ -7,10 +7,8 @@
 
 
 ## 🌱 Currently Working On
-- 🌐 **Web and Real-Time Communication Systems**  
-- 💻 **Evaluation of Data Processing Systems**  
+- 🌐 **Web and Real-Time Communication Systems**   
 - ⛓️ **Decentralized Applications and Blockchain**  
-- 📊 **Combinatorial and Network Optimization Algorithms**
 
 
 ## 🛠️ Tech Stack
