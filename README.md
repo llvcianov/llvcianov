@@ -50,7 +50,6 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
 ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-0072C6?style=flat)
 ![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=windows&logoColor=white&style=flat)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-D24726?logo=microsoft-powerpoint&logoColor=white&style=flat)
 
 
 ## 📊 GitHub Stats
@@ -58,11 +57,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llvcianov&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llvcianov&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llvcianov&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=llvcianov&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
- 
-
