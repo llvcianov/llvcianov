@@ -52,8 +52,5 @@
 ![WSL2](https://img.shields.io/badge/-WSL2-4D4D4D?logo=windows&logoColor=white&style=flat)
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llvcianov&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llvcianov&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llvcianov&theme=tokyonight)
