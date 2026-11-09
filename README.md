@@ -3,7 +3,7 @@
 🎓 I'm a **Master's student in Computer Engineering** at **Università degli Studi di Napoli Federico II** 
 
 📧 luciano.vitale@studenti.unina.it  
-💼 LinkedIn: [linkedin.com/in/luciano-vitale-317972375](https://www.linkedin.com/in/luciano-vitale-317972375/)
+💼 LinkedIn: [linkedin.com/luciano-vitale](https://www.linkedin.com/in/luciano-vitale-317972375/)
 
 
 ## 🌱 Currently Working On
